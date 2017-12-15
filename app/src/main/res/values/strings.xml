@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="server_host_id">serverHost_ID</string>
+    <string name="server_port_id">serverPort_ID</string>
+    <string name="user_name_id">userName_ID</string>
+    <string name="password_id">password_ID</string>
+    <string name="first_name_id">firstName_ID</string>
+    <string name="last_name_id">lastName_ID</string>
+    <string name="email_id">email_ID</string>
+    <string name="gender_id">gender_ID</string>
+    <string name="male_button_id">maleButton_ID</string>
+    <string name="female_button_id">femaleButton_ID</string>
+</resources>
